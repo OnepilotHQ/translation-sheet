@@ -1,3 +1,9 @@
+# ⚠️ This package is abandoned
+This package is no longer maintained and should not be used.
+No new features or bug fixes will be added.
+
+
+
 # Laravel Translation Sheet
 
 Translating Laravel languages files using a Google Spreadsheet.
