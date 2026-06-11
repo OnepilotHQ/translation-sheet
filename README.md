@@ -1,3 +1,5 @@
+(forked from [nikaia/translation-sheet](https://github.com/nikaia/translation-sheet))
+
 # ⚠️ This package is abandoned
 This package is no longer maintained and should not be used.
 No new features or bug fixes will be added.
@@ -32,7 +34,7 @@ Translating Laravel languages files using a Google Spreadsheet.
 - Install package
 
     ```bash
-    $ composer require nikaia/translation-sheet --dev
+    $ composer require caseraph/translation-sheet --dev
     ```
     
 - If Laravel version <= 5.4,  Add service provider to your 'config/app.php'. For version >= 5.5, package will be auto-discoverd by Laravel.
@@ -248,4 +250,3 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Nassif Bourguig](https://github.com/nbourguig)
 - [All Contributors](../../contributors)
-

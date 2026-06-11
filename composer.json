@@ -1,5 +1,5 @@
 {
-    "name": "nikaia/translation-sheet",
+    "name": "caseraph/translation-sheet",
     "description": "Laravel Translation via Google Spreadsheet",
     "homepage": "https://github.com/nikaia/translation-sheet",
     "license": "MIT",
@@ -10,15 +10,18 @@
             "role": "Developer"
         }
     ],
+    "replace": {
+        "nikaia/translation-sheet": "*"
+    },
     "require": {
         "google/apiclient": "^2.1",
-        "illuminate/console": "^v9.0|^10.0|^11.0",
-        "illuminate/filesystem": "^v9.0|^10.0|^11.0",
-        "illuminate/support": "^v9.0|^10.0|^11.0"
+        "illuminate/console": "^v9.0|^10.0|^11.0|^12.0|^13.0",
+        "illuminate/filesystem": "^v9.0|^10.0|^11.0|^12.0|^13.0",
+        "illuminate/support": "^v9.0|^10.0|^11.0|^12.0|^13.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.0",
-        "orchestra/testbench": "^7.0|^8.0|^9.0"
+        "orchestra/testbench": "^7.0|^8.0|^9.0|^10.0|^11.0"
     },
     "autoload": {
         "psr-4": {
