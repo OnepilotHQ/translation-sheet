@@ -1,5 +1,5 @@
 {
-    "name": "caseraph/translation-sheet",
+    "name": "nikaia/translation-sheet",
     "description": "Laravel Translation via Google Spreadsheet",
     "homepage": "https://github.com/nikaia/translation-sheet",
     "license": "MIT",
